@@ -14,4 +14,4 @@ Referee -	A referee, representing FIFA, can update game results and dates, setti
 					
 
 Logical Entity Relationship Diagram (ERD)
-![This is an image](https://github.com/MaySofi/Soccer_DB/blob/master/images/Logical%20ERD.png)
+![This is an image](https://github.com/MaySofi/Soccer_DB/blob/master/images/new_ERD.png)
